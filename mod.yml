@@ -4,4 +4,4 @@ assets:
 - name: xa_ex_3000.mdls
   method: copy
   source: 
-  - name: mod/xa_ex_3000.mdls
+  - name: xa_ex_3000.mdls
