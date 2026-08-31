@@ -1,0 +1,7 @@
+title: Vanilla Sephiroth
+description: adds in KH1-E Sephiroth behavior into Final Mix
+assets:
+- name: xa_ex_3000.mdls
+  method: copy
+  source: 
+  - name: mod/xa_ex_3000.mdls
